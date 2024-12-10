@@ -200,11 +200,11 @@ export default function ModernPortfolio() {
       {/* Contact Section */}
       <section id="contact" className="container mx-auto px-4 py-16 text-center">
         <h2 className="text-4xl font-bold mb-6">
-          Let's Connect
+          Let&apos;s Connect
         </h2>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
           Interested in collaboration, have a project in mind, or just want to say hello? 
-          Feel free to reach out, and I'll get back to you as soon as possible.
+          Feel free to reach out, and I&apos;ll get back to you as soon as possible.
         </p>
         <a 
           href="mailto:syedwaqarunnabi@gmail.com" 
